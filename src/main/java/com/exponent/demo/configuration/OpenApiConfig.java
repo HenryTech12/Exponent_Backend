@@ -33,7 +33,7 @@ import org.springframework.context.annotation.Configuration;
                         description = "Local Enviroment"
                 ),
                 @Server(
-                        url = "https://health-inspector.onrender.com",
+                        url = "https://exponent-backend-jin7.onrender.com",
                         description = "Production Environment"
                 )
         },
